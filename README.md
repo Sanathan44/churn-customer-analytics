@@ -8,19 +8,14 @@ This project analyzes customer churn for a telecom company using the Telco Custo
 🔑 Key Features
 
 Data cleaning and preprocessing (handling missing values, converting data types).
-
 Exploratory Data Analysis (EDA) with Seaborn and Matplotlib.
 
 Insights into:
 
 Customer tenure distribution.
-
 Monthly charges vs churn.
-
 Churn rate across contract types.
-
 Churn rate across internet service types.
-
 Exported requirements file for reproducibility.
 
 📂 Repository Structure
@@ -37,11 +32,8 @@ Clone the repository:
 git clone <repo-url>
 cd churn-customer-analytics
 
-
 Set up the virtual environment:
-
 setup_env.bat
-
 
 Activate the environment:
 
@@ -56,19 +48,14 @@ pip install -r requirements.txt
 📊 Example Visualizations
 
 Tenure distribution with churn overlay.
-
 Average monthly charges for churned vs non-churned customers.
-
 Churn breakdown by contract and internet service.
 
 🚀 Next Steps
 
-Build predictive models (Logistic Regression, Random Forest, etc.).
-
+Build predictive models (Logistic Regression, Random Forest, etc.) 
 Evaluate performance with metrics like accuracy, precision, recall, F1-score.
-
 Deploy a simple churn prediction app.
 
 🙌 Acknowledgments
-
 Dataset: Telco Customer Churn Dataset
